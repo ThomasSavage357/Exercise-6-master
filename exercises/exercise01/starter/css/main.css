@@ -17,8 +17,8 @@ h1 {
   gap: 1rem;
 }
 .grid-item {
-  /*background-color: lightsalmon;
-  padding: 3rem;*/
+  background-color: lightsalmon;
+  padding: 3rem;
 }
 
 .item-1 {
